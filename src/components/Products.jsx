@@ -71,7 +71,7 @@ function Products() {
                         transition={{ ease: [0.22, 1, 0.36, 1], duration: .6 }}
                         className=' w-full h-full rounded-md '>
                         <video className='w-[27rem] h-[15rem]' autoPlay loop muted>
-                            <source src="public/Project-Video/rainfall.mp4" type='video/mp4' />
+                            <source src="https://files.refokus.com/storage/v1/object/public/Portfolio%20Videos/bcgp-169.webm" type='video/mp4' />
                         </video>
                     </motion.div>
 
@@ -79,7 +79,7 @@ function Products() {
                         transition={{ ease: [0.22, 1, 0.36, 1], duration: .6 }}
                         className=' w-full h-full rounded-md '>
                         <video className='w-[27rem] h-[14rem]' autoPlay loop muted >
-                            <source src="public/Project-Video/remind.mp4" type='video/mp4' />
+                            <source src="https://files.refokus.com/storage/v1/object/public/Portfolio%20Videos/sevdesk-169.webm" type='video/mp4' />
                         </video>
                     </motion.div>
 
@@ -87,7 +87,7 @@ function Products() {
                         transition={{ ease: [0.22, 1, 0.36, 1], duration: .6 }}
                         className=' w-full h-full rounded-md'>
                         <video className='w-[27rem] h-[220px]' autoPlay loop muted >
-                            <source src="public/Project-Video/Silvr.mp4" type='video/mp4' />
+                            <source src="https://files.refokus.com/storage/v1/object/public/Portfolio%20Videos/layoutland-169.webm" type='video/mp4' />
                         </video>
                     </motion.div>
 
@@ -96,7 +96,7 @@ function Products() {
                         transition={{ ease: [0.22, 1, 0.36, 1], duration: .6 }}
                         className=' w-full h-full rounded-md'>
                         <video className='w-[27rem] h-[14rem] pb-4' autoPlay loop muted >
-                            <source src="public/Project-Video/yahoo.mp4" type='video/mp4' />
+                            <source src="https://files.refokus.com/storage/v1/object/public/Portfolio%20Videos/cula-169.webm" type='video/mp4' />
                         </video>
                     </motion.div>
 
@@ -105,7 +105,7 @@ function Products() {
                         transition={{ ease: [0.22, 1, 0.36, 1], duration: .6 }}
                         className=' w-full h-full rounded-md '>
                         <video className='w-[20rem] h-[12rem] pb-[10px]' autoPlay loop muted >
-                            <source src="public/Project-Video/yearinreview.mp4" type='video/mp4' />
+                            <source src="https://files.refokus.com/storage/v1/object/public/Portfolio%20Videos/arqitel-169.webm" type='video/mp4' />
                         </video>
                     </motion.div>
 

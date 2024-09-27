@@ -45,12 +45,12 @@ function Work() {
     })
 
     const [Images, setImages] = useState([
-        { url: "public/Work-Images/work-1.png", top: "60%", left: "50%", isActive: false },
-        { url: "public/Work-Images/work-2.png", top: "50%", left: "40%", isActive: false },
-        { url: "public/Work-Images/work-3.png", top: "40%", left: "50%", isActive: false },
-        { url: "public/Work-Images/work-4.png", top: "60%", left: "60%", isActive: false },
-        { url: "public/Work-Images/work-6.png", top: "70%", left: "65%", isActive: false },
-        { url: "public/Work-Images/work-5.png", top: "80%", left: "38%", isActive: false },
+        { url: "https://cdn.prod.website-files.com/664dc8b6bc52b504509197e4/66c3bb125095523f5ce87a2a_9-p-500.webp", top: "60%", left: "50%", isActive: false },
+        { url: "https://cdn.prod.website-files.com/664dc8b6bc52b504509197e4/66c3bb13c9d1cdce681e0e73_10-p-500.webp", top: "50%", left: "40%", isActive: false },
+        { url: "https://cdn.prod.website-files.com/664dc8b6bc52b504509197f0/6697d000c5875a51723e197f_Brightwave%20-%204%203.webp", top: "40%", left: "50%", isActive: false },
+        { url: "https://cdn.prod.website-files.com/664dc8b6bc52b504509197f0/6697d7f33bdfd7f713ff552d_Singularity%20-%204%203.webp", top: "60%", left: "60%", isActive: false },
+        { url: "https://cdn.prod.website-files.com/664dc8b6bc52b504509197e4/66c3bb122fb3c4a2a89a21ed_1-p-500.webp", top: "70%", left: "65%", isActive: false },
+        { url: "https://cdn.prod.website-files.com/664dc8b6bc52b504509197f0/6697d8ccb75f918dc861c6c3_Layout%20Land%20-%204%203.webp", top: "80%", left: "38%", isActive: false },
     ])
 
 
